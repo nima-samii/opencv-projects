@@ -5,7 +5,7 @@ This repository contains a collection of basic OpenCV projects demonstrating var
 ## Projects
 
 * **Face Detection:**  Detects faces in images using a Haar cascade classifier.  See the `face-detection` directory for more details.
-* **Face Recognition:**  Tracks objects in video streams using [mention the tracking method].  See the `face-recognition` directory.
+* **Face Recognition:**  Training a face recognition model and using it to recognize faces in images.  See the `face-recognition` directory.
 
 <!-- ## How to Run
 
